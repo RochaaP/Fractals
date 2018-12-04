@@ -5,7 +5,9 @@ A fractal is a never-ending pattern. Fractals are infinitely complex patterns th
 
 ### Definition of Mandelbrot set 
 
-a fractal that when plotted on a computer screen roughly resembles a series of heart-shaped disks to which smaller disks are attached and that consists of a connected set of all points c in the complex plane for which the recursive expression zn+1 = zn2 + c for n = 0, 1, 2, 3,  … with the starting value z0 = 0 remains bounded as n approaches infinity
+a fractal that when plotted on a computer screen roughly resembles a series of heart-shaped disks to which smaller disks are attached and that consists of a connected set of all points c in the complex plane for which the recursive expression 
+  #### zn+1 = zn2 + c for n = 0, 1, 2, 3,  … 
+with the starting value z0 = 0 remains bounded as n approaches infinity
 
 
 
